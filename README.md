@@ -1,4 +1,4 @@
-/* New Things Every Day — Day 84 */
+/* New Things Every Day — Da 84 */
 /* Generates a daily execution log with a calculated value */
 
 function dailyLog84() {
